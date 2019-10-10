@@ -1,4 +1,4 @@
-THP - Week3 - Project4 - Mad Scrapper
+THP - Week3 - Project4 - Crazy Scraper
 
 Projet : Le scrappeur fou
 
